@@ -1,4 +1,4 @@
-# Projects
+# About me
 🚀 Kamireddy Keerthi Reddy | AI & Web Dev Enthusiast
 
 👩‍💻 About Me
