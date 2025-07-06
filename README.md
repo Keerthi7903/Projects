@@ -42,6 +42,6 @@ Soft Skills: Communication, Teamwork, Creativity, Adaptability
 🕹️ Trying New Tech Things Just for Fun
 
 📫 Connect with Me
-🔗 GitHub: [your-username]
-🔗 LinkedIn: [your-linkedin-url]
+🔗 GitHub: https://github.com/Keerthi7903
+🔗 LinkedIn: https://www.linkedin.com/in/keerthi-reddy-a2571927a/
 📧 Email: keerthireddy7903@gmail.com
